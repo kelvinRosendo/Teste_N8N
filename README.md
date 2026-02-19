@@ -1,70 +1,79 @@
 # 🚀 Teste_N8N
 
-Projeto de testes e experimentações utilizando **n8n** para automação de fluxos, integrações entre sistemas e otimização de processos internos.
+Projeto de testes e experimentações utilizando **n8n** para automação de fluxos, integrações entre sistemas, aplicação de Inteligência Artificial e otimização de processos de engenharia.
 
 ---
 
 ## 📌 Sobre o Projeto
 
-O **Teste_N8N** foi criado com o objetivo de explorar o potencial da ferramenta n8n na criação de automações inteligentes, integrações entre APIs e construção de workflows personalizados.
+O **Teste_N8N** foi criado com o objetivo de explorar o potencial do n8n na construção de workflows inteligentes, integrações robustas e automações voltadas para times técnicos.
 
-Este repositório serve como ambiente de estudo, testes práticos e prototipagem de soluções que poderão ser aplicadas em ambientes reais.
+Este repositório funciona como:
 
----
-
-## 🎯 Objetivos
-
-- Aprender e dominar a estrutura de workflows do n8n  
-- Testar integrações com APIs externas  
-- Criar automações para uso educacional e administrativo  
-- Simular cenários reais de automação  
-- Documentar boas práticas e soluções encontradas  
+- 🧪 Ambiente de experimentação
+- 📚 Laboratório de aprendizado prático
+- 🏗️ Base para prototipagem de soluções reais
+- 🤖 Plataforma de testes para integração com IA
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+# 🧭 Roadmap Técnico do Projeto
 
-- [n8n](https://n8n.io/)
-- Webhooks
-- APIs REST
-- JSON
-- GitHub (versionamento)
+A evolução do projeto segue uma trilha estruturada de aprendizado e aplicação prática.
 
 ---
 
-## 🧪 Exemplos de Testes
+## 1️⃣ Fundamentos e Estruturação de Fluxos Técnicos
 
-Alguns exemplos de automações que podem ser desenvolvidas neste projeto:
+Nesta etapa o foco é construir automações robustas voltadas para produtividade do time de engenharia.
 
-- 🔄 Automação de envio de e-mails  
-- 📊 Integração com planilhas  
-- 🔔 Notificações automáticas  
-- 🧠 Integração com IA  
-- 📡 Webhooks para captura de eventos  
+### 🔹 Objetivos técnicos
 
----
+- Estruturar pipelines completos para revisão de Pull Requests
+- Utilizar nós essenciais como:
+  - GitHub
+  - Code
+  - IF
+- Criar ramificações inteligentes de fluxo
+- Mapear caminhos ideais de execução
 
-## 📂 Estrutura do Projeto
+### 🤖 Integração com IA
 
-A organização pode incluir:
+- Uso do nó Gemini para aplicar lógica inteligente
+- Pular etapas automaticamente em caso de erro
+- Gerenciar histórico de auditoria via Data Table
 
-```
-/workflows
-/documentacao
-/testes
-```
+### 🔔 Observabilidade e Notificações
 
----
-
-## 📈 Próximos Passos
-
-- [ ] Criar primeiros workflows de teste  
-- [ ] Documentar cada automação criada  
-- [ ] Implementar integração com sistema externo  
-- [ ] Criar ambiente de testes estruturado  
+- Integração com Slack
+- Envio automático de e-mails
+- Monitoramento e depuração do ciclo de vida das aplicações
 
 ---
 
-## 👨‍💻 Autor
+## 2️⃣ Arquitetura de Agentes, MCP e Automação de Engenharia
 
-Projeto desenvolvido para fins de estudo Desenvolvido por KElvin Rosendo De Souza
+Aqui o foco é estruturar ecossistemas de agentes inteligentes utilizando:
+
+- n8n
+- Model Context Protocol (MCP)
+
+### 🔹 Objetivos técnicos
+
+- Conectar múltiplos modelos a servidores centralizados
+- Reutilizar ferramentas e acessos com segurança
+- Garantir governança técnica e escalabilidade
+
+### 🤖 Integração IA + Desenvolvimento
+
+- Agentes que interagem com APIs
+- Edição automática de arquivos no GitHub
+- Implementação da pirâmide de testes automatizada
+- Versionamento de prompts via Git
+- Aplicação de RAG (Retrieval-Augmented Generation)
+- Uso de bancos de dados vetoriais
+
+### ⚙️ Técnicas avançadas
+
+- Nós de transformação
+- Sub-wor
