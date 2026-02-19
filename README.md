@@ -67,4 +67,4 @@ A organização pode incluir:
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido para fins de estudo e experimentação com automações utilizando n8n.
+Projeto desenvolvido para fins de estudo Desenvolvido por KElvin Rosendo De Souza
